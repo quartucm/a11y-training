@@ -1,0 +1,22 @@
+{
+  "name": "a11y-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --open=/exercises"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quartucm/a11y-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quartucm/a11y-training/issues"
+  },
+  "homepage": "https://github.com/quartucm/a11y-training#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
