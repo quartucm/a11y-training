@@ -9,6 +9,8 @@ input {
     border-radius: 5px;
     height: 25px;
     margin-bottom: 10px;
+    color: transparent;
+    text-shadow: 0 0 0 gray;
 }
 
 input:focus {
